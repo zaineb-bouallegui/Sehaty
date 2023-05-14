@@ -1,2 +1,3 @@
 # Sehaty
-MERN applcation(Gestion de cabinet medical )
+MERN application(Gestion de cabinet medical )
+appointment management system
